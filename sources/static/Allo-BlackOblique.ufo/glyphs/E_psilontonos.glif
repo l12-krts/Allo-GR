@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Epsilontonos" format="2">
+  <advance width="1711"/>
+  <unicode hex="0388"/>
+  <outline>
+    <component base="Epsilon" xOffset="472"/>
+    <component base="tonos" xOffset="-74" yOffset="-92"/>
+  </outline>
+</glyph>

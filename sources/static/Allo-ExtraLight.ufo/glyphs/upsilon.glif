@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="upsilon" format="2">
+  <advance width="1182"/>
+  <unicode hex="03C5"/>
+  <anchor x="591" y="0" name="bottom"/>
+  <anchor x="1007" y="385" name="ogonek"/>
+  <anchor x="591" y="1118" name="top"/>
+  <outline>
+    <contour>
+      <point x="1006.667" y="1085.737" type="line"/>
+      <point x="1006.667" y="1109.569"/>
+      <point x="998.236" y="1118.0"/>
+      <point x="974.404" y="1118.0" type="curve"/>
+      <point x="947.929" y="1118.0" type="line"/>
+      <point x="924.097" y="1118.0"/>
+      <point x="915.667" y="1109.569"/>
+      <point x="915.667" y="1085.737" type="curve"/>
+      <point x="915.667" y="387.667" type="line"/>
+      <point x="915.667" y="189.333"/>
+      <point x="785.333" y="68.0"/>
+      <point x="590.667" y="68.0" type="curve"/>
+      <point x="396.0" y="68.0"/>
+      <point x="265.667" y="189.333"/>
+      <point x="265.667" y="387.667" type="curve"/>
+      <point x="265.667" y="1085.738" type="line"/>
+      <point x="265.667" y="1109.569"/>
+      <point x="257.236" y="1118.0"/>
+      <point x="233.404" y="1118.0" type="curve"/>
+      <point x="207.263" y="1118.0" type="line"/>
+      <point x="183.431" y="1118.0"/>
+      <point x="175.0" y="1109.569"/>
+      <point x="175.0" y="1085.738" type="curve"/>
+      <point x="175.0" y="384.667" type="line"/>
+      <point x="175.0" y="138.667"/>
+      <point x="342.667" y="-17.333"/>
+      <point x="590.667" y="-17.333" type="curve"/>
+      <point x="839.0" y="-17.333"/>
+      <point x="1006.667" y="138.667"/>
+      <point x="1006.667" y="384.667" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

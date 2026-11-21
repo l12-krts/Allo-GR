@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iota" format="2">
+  <advance width="560"/>
+  <unicode hex="03B9"/>
+  <anchor x="238" y="1118" name="top"/>
+  <outline>
+    <contour>
+      <point x="508.026" y="97.556" type="line"/>
+      <point x="499.732" y="132.577"/>
+      <point x="464.277" y="153.42"/>
+      <point x="428.289" y="153.037" type="curve"/>
+      <point x="425.952" y="153.013"/>
+      <point x="423.524" y="153.0"/>
+      <point x="421.0" y="153.0" type="curve"/>
+      <point x="346.0" y="153.0"/>
+      <point x="328.0" y="190.0"/>
+      <point x="328.0" y="293.0" type="curve"/>
+      <point x="328.0" y="1053.475" type="line"/>
+      <point x="328.0" y="1101.138"/>
+      <point x="311.138" y="1118.0"/>
+      <point x="263.475" y="1118.0" type="curve"/>
+      <point x="212.525" y="1118.0" type="line"/>
+      <point x="164.862" y="1118.0"/>
+      <point x="148.0" y="1101.138"/>
+      <point x="148.0" y="1053.475" type="curve"/>
+      <point x="148.0" y="248.0" type="line"/>
+      <point x="148.0" y="86.0"/>
+      <point x="231.0" y="-8.0"/>
+      <point x="399.0" y="-8.0" type="curve"/>
+      <point x="422.033" y="-8.0"/>
+      <point x="445.526" y="-6.158"/>
+      <point x="467.27" y="-3.247" type="curve"/>
+      <point x="513.346" y="2.921"/>
+      <point x="525.21" y="25.003"/>
+      <point x="514.496" y="70.239" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

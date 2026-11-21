@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Pi" format="2">
+  <advance width="1432"/>
+  <unicode hex="03A0"/>
+  <outline>
+    <contour>
+      <point x="196.0" y="23.0" type="line"/>
+      <point x="196.0" y="10.304"/>
+      <point x="206.304" y="0.0"/>
+      <point x="219.0" y="0.0" type="curve"/>
+      <point x="219.0" y="0.0" type="line"/>
+      <point x="231.696" y="0.0"/>
+      <point x="242.0" y="10.304"/>
+      <point x="242.0" y="23.0" type="curve"/>
+      <point x="242.0" y="1444.0" type="line"/>
+      <point x="1190.0" y="1444.0" type="line"/>
+      <point x="1190.0" y="23.0" type="line"/>
+      <point x="1190.0" y="10.304"/>
+      <point x="1200.304" y="0.0"/>
+      <point x="1213.0" y="0.0" type="curve"/>
+      <point x="1213.0" y="0.0" type="line"/>
+      <point x="1225.696" y="0.0"/>
+      <point x="1236.0" y="10.304"/>
+      <point x="1236.0" y="23.0" type="curve"/>
+      <point x="1236.0" y="1457.375" type="line"/>
+      <point x="1236.0" y="1481.474"/>
+      <point x="1227.474" y="1490.0"/>
+      <point x="1203.375" y="1490.0" type="curve"/>
+      <point x="228.625" y="1490.0" type="line"/>
+      <point x="204.526" y="1490.0"/>
+      <point x="196.0" y="1481.474"/>
+      <point x="196.0" y="1457.375" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

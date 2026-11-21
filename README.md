@@ -1,3 +1,98 @@
+# Allo GR
+
+**Allo with Greek.** A fork of [Allo](https://github.com/joshpuckett/allo) by Josh Puckett that adds a full monotonic
+Greek: Α–Ω, α–ω with ς, every tonos and dialytika (Ά Έ Ή Ί Ό Ύ Ώ Ϊ Ϋ ά έ ή ί ό ύ ώ ϊ ϋ ΐ ΰ), ΄ ΅ · and the Greek
+question mark, plus Ω (U+2126) and ∆ (U+2206). The Greek follows all three axes (optical size, weight, roundness),
+the nine static weights and their obliques, and is kerned with the Latin. The family name stays **Allo**, so it is a
+drop-in replacement.
+
+![Greek in Allo](documentation/greek-charset.png)
+![Greek across roundness and weight](documentation/greek-roundness.png)
+
+## React
+
+```sh
+npm install github:L12-MC/Allo-GR
+```
+
+Load the font once, at your app's root (`main.jsx`, `app/layout.tsx`, `_app.tsx`):
+
+```js
+import "allo-gr";                 // @font-face for the variable font and the obliques
+```
+
+Then use it as a family, or with the component for the axes:
+
+```jsx
+import { Allo, alloStyle } from "allo-gr/react";
+
+<Allo as="h1" weight={800} roundness={100}>Καλημέρα κόσμε</Allo>
+<Allo weight={400} opticalSize={9}>Μικρό κείμενο</Allo>
+<Allo oblique features={{ tnum: true }}>€1.234,50</Allo>
+<p style={alloStyle({ weight: 600, roundness: 0 })}>Αιχμηρό</p>
+```
+
+| Prop | Values |
+|---|---|
+| `weight` | 100–900 |
+| `roundness` | 0 sharp, 50 friendly (default), 100 round |
+| `opticalSize` | `"auto"` (default, follows font size), `"none"`, or 9–32 |
+| `oblique` | `true` for the obliques |
+| `features` | `{ ss01: true, tnum: true }` or a `font-feature-settings` string |
+| `as` | any element or component (default `span`) |
+
+Roundness is passed down through `--allo-rond`, so setting it on a wrapper rounds everything inside.
+
+**Tailwind CSS v4** — one import in your main CSS file:
+
+```css
+@import "tailwindcss";
+@import "allo-gr/tailwind.css";
+```
+
+`font-sans` and `font-allo` are Allo; `rond-0` … `rond-100` (or `rond-[37]`) set the roundness:
+
+```jsx
+<h1 className="font-allo font-black rond-100">Γεια σου!</h1>
+```
+
+**Next.js `next/font`** (self-hosted, no layout shift):
+
+```js
+import localFont from "next/font/local";
+export const allo = localFont({
+  src: [{ path: "../node_modules/allo-gr/fonts/webfonts/AlloVariable.woff2", weight: "100 900", style: "normal" }],
+  variable: "--font-allo",
+});
+// <html className={allo.variable}>  …  font-family: var(--font-allo)
+```
+
+## Greek sources
+
+The Greek is generated into every source by `tools/greek/make_greek.py`, and `tools/greek/proof.py` renders the
+proof sheets in `documentation/greek-*.png`:
+
+```sh
+git clone --depth 1 --filter=blob:none --sparse https://github.com/rsms/inter && (cd inter && git sparse-checkout set src)
+.venv/bin/python tools/greek/make_greek.py --inter inter/src/Inter-Roman.glyphspackage
+.venv/bin/python build.py
+.venv/bin/python tools/greek/proof.py
+```
+
+- Letters that share a Latin shape (Α Β Ε Ζ Η Ι Κ Μ Ν Ο Ρ Τ Υ Χ, ο μ κ) are components of Allo's own glyphs, and Γ is
+  Allo's L turned over, so they follow every edit, axis and sparse layer of the Latin.
+- The rest start from Inter 4 (Allo's own starting point, with the same metrics and stems), interpolated to each
+  master's optical size and weight, respaced with Allo's sidebearings, then given Allo's corners: each convex corner
+  becomes the arc Allo draws, with the radius and handle measured from that master's L. Every master gets the same
+  points, so the variable font interpolates.
+- Tonos and dialytika are placed by anchors; static obliques are the upright Greek slanted 9°, then rounded.
+
+Run the script again after editing a Latin letter; it only rewrites the Greek glyphs it owns.
+
+---
+
+*Below is the original Allo README.*
+
 # Allo
 
 Allo is your friendly neighborhood typeface. It’s variable in weight and roundness, with proportions and curves

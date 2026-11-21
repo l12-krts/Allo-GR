@@ -1,0 +1,21 @@
+/* Allo GR for Tailwind CSS v4:  @import "allo-gr/tailwind.css";
+   Gives font-allo (and makes it the default sans), and rond-0 … rond-100 for roundness.
+   SIL Open Font License 1.1. */
+@import "./allo.css";
+
+@theme {
+  --font-allo: "Allo", system-ui, sans-serif;
+  --font-sans: "Allo", system-ui, sans-serif;
+}
+
+@layer base {
+  html {
+    font-variation-settings: "ROND" var(--allo-rond, 50);
+  }
+}
+
+/* rond-0, rond-25, rond-100, rond-[37] … : roundness, inherited by everything inside */
+@utility rond-* {
+  --allo-rond: --value(integer, [integer]);
+  font-variation-settings: "ROND" var(--allo-rond);
+}

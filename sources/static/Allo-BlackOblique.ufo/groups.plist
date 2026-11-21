@@ -28,6 +28,10 @@
       <string>Abrevedotbelow</string>
       <string>backslash</string>
       <string>warningSign</string>
+      <string>Alpha</string>
+      <string>Delta</string>
+      <string>Lambda</string>
+      <string>Alphatonos</string>
     </array>
     <key>public.kern1.B</key>
     <array>
@@ -35,6 +39,7 @@
       <string>germandbls</string>
       <string>baht</string>
       <string>bitcoin</string>
+      <string>Beta</string>
     </array>
     <key>public.kern1.C</key>
     <array>
@@ -73,6 +78,12 @@
       <string>copyright</string>
       <string>circlewhite</string>
       <string>Eth</string>
+      <string>Theta</string>
+      <string>Omicron</string>
+      <string>Phi</string>
+      <string>Omega</string>
+      <string>Omicrontonos</string>
+      <string>Omegatonos</string>
     </array>
     <key>public.kern1.E</key>
     <array>
@@ -97,10 +108,14 @@
       <string>Ecircumflexdotbelow</string>
       <string>OE</string>
       <string>option</string>
+      <string>Epsilon</string>
+      <string>Sigma</string>
+      <string>Epsilontonos</string>
     </array>
     <key>public.kern1.F</key>
     <array>
       <string>F</string>
+      <string>Gamma</string>
     </array>
     <key>public.kern1.G</key>
     <array>
@@ -148,6 +163,14 @@
       <string>bar</string>
       <string>paragraph</string>
       <string>exclamdown.case</string>
+      <string>Eta</string>
+      <string>Iota</string>
+      <string>Mu</string>
+      <string>Nu</string>
+      <string>Pi</string>
+      <string>Etatonos</string>
+      <string>Iotatonos</string>
+      <string>Iotadieresis</string>
     </array>
     <key>public.kern1.H.dnom</key>
     <array>
@@ -182,11 +205,13 @@
       <string>Uogonek</string>
       <string>Udotbelow</string>
       <string>Uhookabove</string>
+      <string>Psi</string>
     </array>
     <key>public.kern1.K</key>
     <array>
       <string>K</string>
       <string>Kcommaaccent</string>
+      <string>Kappa</string>
     </array>
     <key>public.kern1.L</key>
     <array>
@@ -210,6 +235,7 @@
     <array>
       <string>P</string>
       <string>peso</string>
+      <string>Rho</string>
     </array>
     <key>public.kern1.R</key>
     <array>
@@ -236,6 +262,7 @@
       <string>Tcaron</string>
       <string>uni021A</string>
       <string>Tbar</string>
+      <string>Tau</string>
     </array>
     <key>public.kern1.Uhorn</key>
     <array>
@@ -258,6 +285,7 @@
     <key>public.kern1.X</key>
     <array>
       <string>X</string>
+      <string>Chi</string>
     </array>
     <key>public.kern1.Y</key>
     <array>
@@ -269,6 +297,9 @@
       <string>Ydotbelow</string>
       <string>Yhookabove</string>
       <string>Ytilde</string>
+      <string>Upsilon</string>
+      <string>Upsilontonos</string>
+      <string>Upsilondieresis</string>
     </array>
     <key>public.kern1.Z</key>
     <array>
@@ -276,6 +307,8 @@
       <string>Zacute</string>
       <string>Zdotaccent</string>
       <string>Zcaron</string>
+      <string>Zeta</string>
+      <string>Xi</string>
     </array>
     <key>public.kern1.a</key>
     <array>
@@ -311,6 +344,8 @@
       <string>nacute</string>
       <string>ncommaaccent</string>
       <string>ncaron</string>
+      <string>eta</string>
+      <string>etatonos</string>
     </array>
     <key>public.kern1.a.sups</key>
     <array>
@@ -355,6 +390,9 @@
       <string>ccircumflex</string>
       <string>cdotaccent</string>
       <string>ccaron</string>
+      <string>epsilon</string>
+      <string>sigmafinal</string>
+      <string>epsilontonos</string>
     </array>
     <key>public.kern1.colon</key>
     <array>
@@ -509,6 +547,7 @@
       <string>k</string>
       <string>kcommaaccent</string>
       <string>kgreenlandic</string>
+      <string>kappa</string>
     </array>
     <key>public.kern1.longs</key>
     <array>
@@ -590,6 +629,19 @@
       <string>p</string>
       <string>eth</string>
       <string>cent</string>
+      <string>beta</string>
+      <string>delta</string>
+      <string>theta</string>
+      <string>omicron</string>
+      <string>rho</string>
+      <string>upsilon</string>
+      <string>phi</string>
+      <string>omega</string>
+      <string>omicrontonos</string>
+      <string>upsilontonos</string>
+      <string>omegatonos</string>
+      <string>upsilondieresis</string>
+      <string>upsilondieresistonos</string>
     </array>
     <key>public.kern1.o.sups</key>
     <array>
@@ -800,6 +852,7 @@
       <string>uogonek</string>
       <string>udotbelow</string>
       <string>uhookabove</string>
+      <string>psi</string>
     </array>
     <key>public.kern1.u.sups</key>
     <array>
@@ -825,6 +878,8 @@
       <string>ydotbelow</string>
       <string>yhookabove</string>
       <string>ytilde</string>
+      <string>gamma</string>
+      <string>nu</string>
     </array>
     <key>public.kern1.w</key>
     <array>
@@ -834,6 +889,7 @@
     <key>public.kern1.x</key>
     <array>
       <string>x</string>
+      <string>chi</string>
     </array>
     <key>public.kern1.z</key>
     <array>
@@ -888,6 +944,9 @@
       <string>Abrevedotbelow</string>
       <string>AE</string>
       <string>warningSign</string>
+      <string>Alpha</string>
+      <string>Delta</string>
+      <string>Lambda</string>
     </array>
     <key>public.kern2.B</key>
     <array>
@@ -976,6 +1035,17 @@
       <string>numero</string>
       <string>exclamdown.case</string>
       <string>questiondown.case</string>
+      <string>Beta</string>
+      <string>Gamma</string>
+      <string>Epsilon</string>
+      <string>Eta</string>
+      <string>Iota</string>
+      <string>Kappa</string>
+      <string>Mu</string>
+      <string>Nu</string>
+      <string>Pi</string>
+      <string>Rho</string>
+      <string>Iotadieresis</string>
     </array>
     <key>public.kern2.C</key>
     <array>
@@ -1019,6 +1089,10 @@
       <string>at.case</string>
       <string>copyright</string>
       <string>circlewhite</string>
+      <string>Theta</string>
+      <string>Omicron</string>
+      <string>Phi</string>
+      <string>Omega</string>
     </array>
     <key>public.kern2.Dcroat</key>
     <array>
@@ -1055,6 +1129,7 @@
       <string>uni021A</string>
       <string>option</string>
       <string>Tbar</string>
+      <string>Tau</string>
     </array>
     <key>public.kern2.U</key>
     <array>
@@ -1077,6 +1152,7 @@
       <string>Uhornhookabove</string>
       <string>Uhorntilde</string>
       <string>Uhorndotbelow</string>
+      <string>Psi</string>
     </array>
     <key>public.kern2.V</key>
     <array>
@@ -1091,6 +1167,7 @@
     <key>public.kern2.X</key>
     <array>
       <string>X</string>
+      <string>Chi</string>
     </array>
     <key>public.kern2.Y</key>
     <array>
@@ -1102,6 +1179,8 @@
       <string>Ydotbelow</string>
       <string>Yhookabove</string>
       <string>Ytilde</string>
+      <string>Upsilon</string>
+      <string>Upsilondieresis</string>
     </array>
     <key>public.kern2.Z</key>
     <array>
@@ -1109,6 +1188,9 @@
       <string>Zacute</string>
       <string>Zdotaccent</string>
       <string>Zcaron</string>
+      <string>Zeta</string>
+      <string>Xi</string>
+      <string>Sigma</string>
     </array>
     <key>public.kern2.a</key>
     <array>
@@ -1323,6 +1405,13 @@
       <string>rcommaaccent</string>
       <string>rcaron</string>
       <string>kgreenlandic</string>
+      <string>eta</string>
+      <string>iota</string>
+      <string>kappa</string>
+      <string>etatonos</string>
+      <string>iotatonos</string>
+      <string>iotadieresis</string>
+      <string>iotadieresistonos</string>
     </array>
     <key>public.kern2.nine.1</key>
     <array>
@@ -1413,6 +1502,22 @@
       <string>q</string>
       <string>eth</string>
       <string>cent</string>
+      <string>alpha</string>
+      <string>delta</string>
+      <string>epsilon</string>
+      <string>theta</string>
+      <string>omicron</string>
+      <string>rho</string>
+      <string>sigma</string>
+      <string>sigmafinal</string>
+      <string>phi</string>
+      <string>omega</string>
+      <string>xi</string>
+      <string>zeta</string>
+      <string>alphatonos</string>
+      <string>epsilontonos</string>
+      <string>omicrontonos</string>
+      <string>omegatonos</string>
     </array>
     <key>public.kern2.o.sups</key>
     <array>
@@ -1612,6 +1717,12 @@
       <string>uhornhookabove</string>
       <string>uhorntilde</string>
       <string>uhorndotbelow</string>
+      <string>mugreek</string>
+      <string>upsilon</string>
+      <string>psi</string>
+      <string>upsilontonos</string>
+      <string>upsilondieresis</string>
+      <string>upsilondieresistonos</string>
     </array>
     <key>public.kern2.u.sups</key>
     <array>
@@ -1628,6 +1739,8 @@
       <string>ydotbelow</string>
       <string>yhookabove</string>
       <string>ytilde</string>
+      <string>gamma</string>
+      <string>nu</string>
     </array>
     <key>public.kern2.w</key>
     <array>
@@ -1637,6 +1750,7 @@
     <key>public.kern2.x</key>
     <array>
       <string>x</string>
+      <string>chi</string>
     </array>
     <key>public.kern2.z</key>
     <array>

@@ -762,6 +762,81 @@
       <string>f_t_f</string>
       <string>f_f_t</string>
       <string>f_f_f</string>
+      <string>Alpha</string>
+      <string>Beta</string>
+      <string>Epsilon</string>
+      <string>Zeta</string>
+      <string>Eta</string>
+      <string>Iota</string>
+      <string>Kappa</string>
+      <string>Mu</string>
+      <string>Nu</string>
+      <string>Omicron</string>
+      <string>Rho</string>
+      <string>Tau</string>
+      <string>Upsilon</string>
+      <string>Chi</string>
+      <string>Iotadieresis</string>
+      <string>Upsilondieresis</string>
+      <string>omicron</string>
+      <string>mugreek</string>
+      <string>kappa</string>
+      <string>questiongreek</string>
+      <string>Gamma</string>
+      <string>Theta</string>
+      <string>Delta</string>
+      <string>Lambda</string>
+      <string>Xi</string>
+      <string>Pi</string>
+      <string>Sigma</string>
+      <string>Phi</string>
+      <string>Psi</string>
+      <string>Omega</string>
+      <string>alpha</string>
+      <string>beta</string>
+      <string>gamma</string>
+      <string>delta</string>
+      <string>epsilon</string>
+      <string>zeta</string>
+      <string>eta</string>
+      <string>theta</string>
+      <string>iota</string>
+      <string>lambda</string>
+      <string>nu</string>
+      <string>xi</string>
+      <string>pi</string>
+      <string>rho</string>
+      <string>sigmafinal</string>
+      <string>sigma</string>
+      <string>tau</string>
+      <string>upsilon</string>
+      <string>phi</string>
+      <string>chi</string>
+      <string>psi</string>
+      <string>omega</string>
+      <string>tonos.top</string>
+      <string>tonos</string>
+      <string>dieresistonos</string>
+      <string>dieresistonos.top</string>
+      <string>anoteleia</string>
+      <string>Alphatonos</string>
+      <string>Epsilontonos</string>
+      <string>Etatonos</string>
+      <string>Iotatonos</string>
+      <string>Omicrontonos</string>
+      <string>Upsilontonos</string>
+      <string>Omegatonos</string>
+      <string>alphatonos</string>
+      <string>epsilontonos</string>
+      <string>etatonos</string>
+      <string>iotatonos</string>
+      <string>omicrontonos</string>
+      <string>upsilontonos</string>
+      <string>omegatonos</string>
+      <string>iotadieresis</string>
+      <string>upsilondieresis</string>
+      <string>iotadieresistonos</string>
+      <string>upsilondieresistonos</string>
     </array>
     <key>public.openTypeCategories</key>
     <dict>
@@ -803,6 +878,10 @@
       <string>base</string>
       <key>Ahookabove</key>
       <string>base</string>
+      <key>Alpha</key>
+      <string>base</string>
+      <key>Alphatonos</key>
+      <string>base</string>
       <key>Amacron</key>
       <string>base</string>
       <key>Aogonek</key>
@@ -812,6 +891,8 @@
       <key>Atilde</key>
       <string>base</string>
       <key>B</key>
+      <string>base</string>
+      <key>Beta</key>
       <string>base</string>
       <key>C</key>
       <string>base</string>
@@ -825,6 +906,8 @@
       <string>base</string>
       <key>Cdotaccent</key>
       <string>base</string>
+      <key>Chi</key>
+      <string>base</string>
       <key>D</key>
       <string>base</string>
       <key>Dbar1</key>
@@ -832,6 +915,8 @@
       <key>Dcaron</key>
       <string>base</string>
       <key>Dcroat</key>
+      <string>base</string>
+      <key>Delta</key>
       <string>base</string>
       <key>E</key>
       <string>base</string>
@@ -869,6 +954,14 @@
       <string>base</string>
       <key>Eogonek</key>
       <string>base</string>
+      <key>Epsilon</key>
+      <string>base</string>
+      <key>Epsilontonos</key>
+      <string>base</string>
+      <key>Eta</key>
+      <string>base</string>
+      <key>Etatonos</key>
+      <string>base</string>
       <key>Eth</key>
       <string>base</string>
       <key>Etilde</key>
@@ -876,6 +969,8 @@
       <key>F</key>
       <string>base</string>
       <key>G</key>
+      <string>base</string>
+      <key>Gamma</key>
       <string>base</string>
       <key>Gbreve</key>
       <string>base</string>
@@ -939,6 +1034,12 @@
       <string>base</string>
       <key>Iogonek.1</key>
       <string>base</string>
+      <key>Iota</key>
+      <string>base</string>
+      <key>Iotadieresis</key>
+      <string>base</string>
+      <key>Iotatonos</key>
+      <string>base</string>
       <key>Itilde</key>
       <string>base</string>
       <key>Itilde.1</key>
@@ -949,11 +1050,15 @@
       <string>base</string>
       <key>K</key>
       <string>base</string>
+      <key>Kappa</key>
+      <string>base</string>
       <key>Kcommaaccent</key>
       <string>base</string>
       <key>L</key>
       <string>base</string>
       <key>Lacute</key>
+      <string>base</string>
+      <key>Lambda</key>
       <string>base</string>
       <key>Lcaron</key>
       <string>base</string>
@@ -967,6 +1072,8 @@
       <string>base</string>
       <key>M</key>
       <string>base</string>
+      <key>Mu</key>
+      <string>base</string>
       <key>N</key>
       <string>base</string>
       <key>Nacute</key>
@@ -976,6 +1083,8 @@
       <key>Ncommaaccent</key>
       <string>base</string>
       <key>Ntilde</key>
+      <string>base</string>
+      <key>Nu</key>
       <string>base</string>
       <key>O</key>
       <string>base</string>
@@ -1021,11 +1130,25 @@
       <string>base</string>
       <key>Omacron</key>
       <string>base</string>
+      <key>Omega</key>
+      <string>base</string>
+      <key>Omegatonos</key>
+      <string>base</string>
+      <key>Omicron</key>
+      <string>base</string>
+      <key>Omicrontonos</key>
+      <string>base</string>
       <key>Oslash</key>
       <string>base</string>
       <key>Otilde</key>
       <string>base</string>
       <key>P</key>
+      <string>base</string>
+      <key>Phi</key>
+      <string>base</string>
+      <key>Pi</key>
+      <string>base</string>
+      <key>Psi</key>
       <string>base</string>
       <key>Q</key>
       <string>base</string>
@@ -1036,6 +1159,8 @@
       <key>Rcaron</key>
       <string>base</string>
       <key>Rcommaaccent</key>
+      <string>base</string>
+      <key>Rho</key>
       <string>base</string>
       <key>S</key>
       <string>base</string>
@@ -1049,13 +1174,19 @@
       <string>base</string>
       <key>Scommaaccent</key>
       <string>base</string>
+      <key>Sigma</key>
+      <string>base</string>
       <key>T</key>
+      <string>base</string>
+      <key>Tau</key>
       <string>base</string>
       <key>Tbar</key>
       <string>base</string>
       <key>Tcaron</key>
       <string>base</string>
       <key>Tcommaaccent</key>
+      <string>base</string>
+      <key>Theta</key>
       <string>base</string>
       <key>U</key>
       <string>base</string>
@@ -1091,6 +1222,12 @@
       <string>base</string>
       <key>Uogonek</key>
       <string>base</string>
+      <key>Upsilon</key>
+      <string>base</string>
+      <key>Upsilondieresis</key>
+      <string>base</string>
+      <key>Upsilontonos</key>
+      <string>base</string>
       <key>Uring</key>
       <string>base</string>
       <key>Utilde</key>
@@ -1102,6 +1239,8 @@
       <key>Wcircumflex</key>
       <string>base</string>
       <key>X</key>
+      <string>base</string>
+      <key>Xi</key>
       <string>base</string>
       <key>Y</key>
       <string>base</string>
@@ -1126,6 +1265,8 @@
       <key>Zcaron</key>
       <string>base</string>
       <key>Zdotaccent</key>
+      <string>base</string>
+      <key>Zeta</key>
       <string>base</string>
       <key>_part.f_base</key>
       <string>base</string>
@@ -1211,9 +1352,15 @@
       <string>base</string>
       <key>ahookabove.1</key>
       <string>base</string>
+      <key>alpha</key>
+      <string>base</string>
+      <key>alphatonos</key>
+      <string>base</string>
       <key>amacron</key>
       <string>base</string>
       <key>amacron.1</key>
+      <string>base</string>
+      <key>anoteleia</key>
       <string>base</string>
       <key>aogonek</key>
       <string>base</string>
@@ -1228,6 +1375,8 @@
       <key>atilde.1</key>
       <string>base</string>
       <key>b</key>
+      <string>base</string>
+      <key>beta</key>
       <string>base</string>
       <key>bitcoin</key>
       <string>base</string>
@@ -1267,6 +1416,8 @@
       <string>mark</string>
       <key>cent</key>
       <string>base</string>
+      <key>chi</key>
+      <string>base</string>
       <key>circumflexacutecomb.cn</key>
       <string>base</string>
       <key>circumflexcomb</key>
@@ -1287,9 +1438,15 @@
       <string>base</string>
       <key>degreefarenheit</key>
       <string>base</string>
+      <key>delta</key>
+      <string>base</string>
       <key>dieresis</key>
       <string>base</string>
       <key>dieresiscomb</key>
+      <string>mark</string>
+      <key>dieresistonos</key>
+      <string>base</string>
+      <key>dieresistonos.top</key>
       <string>mark</string>
       <key>dollar</key>
       <string>base</string>
@@ -1333,9 +1490,19 @@
       <string>base</string>
       <key>eogonek</key>
       <string>base</string>
+      <key>epsilon</key>
+      <string>base</string>
+      <key>epsilontonos</key>
+      <string>base</string>
+      <key>eta</key>
+      <string>base</string>
+      <key>etatonos</key>
+      <string>base</string>
       <key>etilde</key>
       <string>base</string>
       <key>g</key>
+      <string>base</string>
+      <key>gamma</key>
       <string>base</string>
       <key>gbreve</key>
       <string>base</string>
@@ -1387,6 +1554,14 @@
       <string>base</string>
       <key>iogonek</key>
       <string>base</string>
+      <key>iota</key>
+      <string>base</string>
+      <key>iotadieresis</key>
+      <string>base</string>
+      <key>iotadieresistonos</key>
+      <string>base</string>
+      <key>iotatonos</key>
+      <string>base</string>
       <key>itilde</key>
       <string>base</string>
       <key>j</key>
@@ -1397,6 +1572,8 @@
       <string>base</string>
       <key>k</key>
       <string>base</string>
+      <key>kappa</key>
+      <string>base</string>
       <key>kcommaaccent</key>
       <string>base</string>
       <key>l</key>
@@ -1406,6 +1583,8 @@
       <key>lacute</key>
       <string>base</string>
       <key>lacute.ss02</key>
+      <string>base</string>
+      <key>lambda</key>
       <string>base</string>
       <key>lcaron</key>
       <string>base</string>
@@ -1433,6 +1612,8 @@
       <string>base</string>
       <key>macroncomb</key>
       <string>mark</string>
+      <key>mugreek</key>
+      <string>base</string>
       <key>n</key>
       <string>base</string>
       <key>nacute</key>
@@ -1442,6 +1623,8 @@
       <key>ncommaaccent</key>
       <string>base</string>
       <key>ntilde</key>
+      <string>base</string>
+      <key>nu</key>
       <string>base</string>
       <key>o</key>
       <string>base</string>
@@ -1491,6 +1674,14 @@
       <string>base</string>
       <key>omacron</key>
       <string>base</string>
+      <key>omega</key>
+      <string>base</string>
+      <key>omegatonos</key>
+      <string>base</string>
+      <key>omicron</key>
+      <string>base</string>
+      <key>omicrontonos</key>
+      <string>base</string>
       <key>onehalf</key>
       <string>base</string>
       <key>onethird</key>
@@ -1505,7 +1696,15 @@
       <string>base</string>
       <key>p</key>
       <string>base</string>
+      <key>phi</key>
+      <string>base</string>
+      <key>pi</key>
+      <string>base</string>
+      <key>psi</key>
+      <string>base</string>
       <key>q</key>
+      <string>base</string>
+      <key>questiongreek</key>
       <string>base</string>
       <key>r</key>
       <string>base</string>
@@ -1514,6 +1713,8 @@
       <key>rcaron</key>
       <string>base</string>
       <key>rcommaaccent</key>
+      <string>base</string>
+      <key>rho</key>
       <string>base</string>
       <key>ringcomb</key>
       <string>mark</string>
@@ -1533,7 +1734,13 @@
       <string>base</string>
       <key>scommaaccent</key>
       <string>base</string>
+      <key>sigma</key>
+      <string>base</string>
+      <key>sigmafinal</key>
+      <string>base</string>
       <key>t</key>
+      <string>base</string>
+      <key>tau</key>
       <string>base</string>
       <key>tbar</key>
       <string>base</string>
@@ -1542,6 +1749,8 @@
       <key>tcedilla</key>
       <string>base</string>
       <key>tcommaaccent</key>
+      <string>base</string>
+      <key>theta</key>
       <string>base</string>
       <key>three</key>
       <string>base</string>
@@ -1560,6 +1769,10 @@
       <key>threequarters</key>
       <string>base</string>
       <key>tildecomb</key>
+      <string>mark</string>
+      <key>tonos</key>
+      <string>base</string>
+      <key>tonos.top</key>
       <string>mark</string>
       <key>two</key>
       <string>base</string>
@@ -1615,6 +1828,14 @@
       <string>base</string>
       <key>uogonek</key>
       <string>base</string>
+      <key>upsilon</key>
+      <string>base</string>
+      <key>upsilondieresis</key>
+      <string>base</string>
+      <key>upsilondieresistonos</key>
+      <string>base</string>
+      <key>upsilontonos</key>
+      <string>base</string>
       <key>uring</key>
       <string>base</string>
       <key>utilde</key>
@@ -1626,6 +1847,8 @@
       <key>wcircumflex</key>
       <string>base</string>
       <key>x</key>
+      <string>base</string>
+      <key>xi</key>
       <string>base</string>
       <key>y</key>
       <string>base</string>
@@ -1670,6 +1893,8 @@
       <key>zero.tf.dot</key>
       <string>base</string>
       <key>zero.tf.slash</key>
+      <string>base</string>
+      <key>zeta</key>
       <string>base</string>
     </dict>
     <key>public.postscriptNames</key>

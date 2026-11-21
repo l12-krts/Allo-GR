@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="el">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Allo GR specimen</title>
+<style>
+  @font-face { font-family: "Allo"; src: url("../fonts/webfonts/AlloVariable.woff2") format("woff2"); font-weight: 100 900; }
+  :root { --bg: #fafaf8; --fg: #141418; --dim: #8a8a96; --line: #e4e4e0; --wght: 400; --rond: 50; --opsz: 14; }
+  @media (prefers-color-scheme: dark) { :root { --bg: #111114; --fg: #f1f1ee; --dim: #7c7c88; --line: #26262c; } }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--fg); font-family: "Allo", system-ui, sans-serif; }
+  header { position: sticky; top: 0; background: var(--bg); border-bottom: 1px solid var(--line); padding: 14px 16px;
+           display: flex; flex-wrap: wrap; gap: 12px 28px; align-items: center; z-index: 1; }
+  header b { font-weight: 700; margin-right: auto; }
+  label { display: flex; gap: 10px; align-items: center; font-size: 14px; color: var(--dim); }
+  label output { min-width: 3ch; color: var(--fg); font-variant-numeric: tabular-nums; }
+  main { padding: 24px 16px 80px; max-width: 1200px; margin: 0 auto; }
+  .s { font-weight: var(--wght); font-variation-settings: "ROND" var(--rond), "opsz" var(--opsz); }
+  h2 { font-size: 13px; font-weight: 500; color: var(--dim); margin: 40px 0 8px; letter-spacing: .02em; }
+  .big { font-size: clamp(40px, 8vw, 96px); line-height: 1.15; overflow-wrap: anywhere; }
+  .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(72px, 1fr)); border-top: 1px solid var(--line); border-left: 1px solid var(--line); }
+  .grid div { font-size: 44px; aspect-ratio: 1; display: grid; place-items: center; border-right: 1px solid var(--line); border-bottom: 1px solid var(--line); }
+  .text { font-size: 20px; line-height: 1.55; max-width: 62ch; }
+  [contenteditable] { outline: none; }
+</style>
+</head>
+<body>
+<header>
+  <b>Allo GR</b>
+  <label>Weight <input id="wght" type="range" min="100" max="900" value="400"><output>400</output></label>
+  <label>Roundness <input id="rond" type="range" min="0" max="100" value="50"><output>50</output></label>
+  <label>Optical size <input id="opsz" type="range" min="9" max="32" value="14"><output>14</output></label>
+</header>
+<main class="s">
+  <h2>ΚΕΦΑΛΑΙΑ · ΠΕΖΑ — click any line to type</h2>
+  <div class="big" contenteditable>ΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩ</div>
+  <div class="big" contenteditable>αβγδεζηθικλμνξοπρσςτυφχψω</div>
+  <div class="big" contenteditable>Ξεσκεπάζω την ψυχοφθόρα βδελυγμία.</div>
+  <h2>Characters</h2>
+  <div class="grid" id="grid"></div>
+  <h2>Text</h2>
+  <p class="text" contenteditable>Η Allo είναι μια φιλική γραμματοσειρά για οθόνες και διεπαφές. Έχει τρεις άξονες — μέγεθος, βάρος και στρογγυλότητα — και τώρα μιλάει ελληνικά: «Καλημέρα!», ΐ ΰ ϊ ϋ, 0123456789, €42,50. Allo is your friendly neighborhood typeface.</p>
+</main>
+<script>
+  const chars = "ΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩΆΈΉΊΌΎΏΪΫαβγδεζηθικλμνξοπρσςτυφχψωάέήίόύώϊϋΐΰ΄΅·;Ω∆";
+  document.getElementById("grid").innerHTML = [...chars].map(c => `<div title="U+${c.codePointAt(0).toString(16).toUpperCase().padStart(4, "0")}">${c}</div>`).join("");
+  for (const id of ["wght", "rond", "opsz"]) {
+    const input = document.getElementById(id);
+    input.addEventListener("input", () => {
+      document.documentElement.style.setProperty("--" + id, input.value);
+      input.nextElementSibling.value = input.value;
+    });
+  }
+</script>
+</body>
+</html>

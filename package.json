@@ -1,26 +1,27 @@
 {
-  "name": "allo-font",
-  "version": "1.0.3",
-  "description": "Allo, your friendly neighborhood typeface: variable web fonts and CSS.",
+  "name": "allo-gr",
+  "version": "1.1.0",
+  "description": "Allo with Greek: the friendly variable typeface (optical size, weight, roundness) plus a full monotonic Greek, as web fonts, CSS, a Tailwind v4 theme and a React component.",
   "keywords": [
     "font",
     "typeface",
     "variable font",
     "woff2",
     "sans-serif",
-    "allo"
+    "greek",
+    "allo",
+    "react",
+    "tailwind"
   ],
-  "homepage": "https://allo.joshpuckett.me",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/joshpuckett/allo.git"
-  },
-  "bugs": "https://github.com/joshpuckett/allo/issues",
   "license": "OFL-1.1",
-  "author": "Josh Puckett (https://joshpuckett.me)",
+  "author": "Josh Puckett (https://joshpuckett.me); Greek: L12-MC",
+  "type": "module",
   "files": [
     "allo.css",
     "allo-friendly.css",
+    "tailwind.css",
+    "react/index.js",
+    "react/index.d.ts",
     "fonts/webfonts/AlloVariable.woff2",
     "fonts/webfonts/AlloVariableFriendly.woff2",
     "fonts/webfonts/Allo-ThinOblique.woff2",
@@ -41,8 +42,21 @@
     "./allo.css": "./allo.css",
     "./friendly": "./allo-friendly.css",
     "./allo-friendly.css": "./allo-friendly.css",
+    "./tailwind.css": "./tailwind.css",
+    "./react": {
+      "types": "./react/index.d.ts",
+      "default": "./react/index.js"
+    },
     "./fonts/*": "./fonts/*",
     "./package.json": "./package.json"
+  },
+  "peerDependencies": {
+    "react": ">=16.8"
+  },
+  "peerDependenciesMeta": {
+    "react": {
+      "optional": true
+    }
   },
   "sideEffects": [
     "*.css"
