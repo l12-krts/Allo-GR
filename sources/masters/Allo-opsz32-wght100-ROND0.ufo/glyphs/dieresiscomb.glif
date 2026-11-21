@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresiscomb" format="2">
+  <unicode hex="0308"/>
+  <anchor x="508" y="1056" name="_top"/>
+  <anchor x="508" y="1425" name="top"/>
+  <outline>
+    <contour>
+      <point x="334.0" y="1317.0"/>
+      <point x="355.0" y="1338.0"/>
+      <point x="355.0" y="1364.0" type="curve"/>
+      <point x="355.0" y="1390.0"/>
+      <point x="334.0" y="1411.0"/>
+      <point x="308.0" y="1411.0" type="curve"/>
+      <point x="282.0" y="1411.0"/>
+      <point x="262.0" y="1390.0"/>
+      <point x="262.0" y="1364.0" type="curve"/>
+      <point x="262.0" y="1338.0"/>
+      <point x="282.0" y="1317.0"/>
+      <point x="308.0" y="1317.0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="734.0" y="1317.0"/>
+      <point x="755.0" y="1338.0"/>
+      <point x="755.0" y="1364.0" type="curve"/>
+      <point x="755.0" y="1390.0"/>
+      <point x="734.0" y="1411.0"/>
+      <point x="708.0" y="1411.0" type="curve"/>
+      <point x="682.0" y="1411.0"/>
+      <point x="662.0" y="1390.0"/>
+      <point x="662.0" y="1364.0" type="curve"/>
+      <point x="662.0" y="1338.0"/>
+      <point x="682.0" y="1317.0"/>
+      <point x="708.0" y="1317.0" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

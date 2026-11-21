@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="l.ss02" format="2">
+  <advance width="653"/>
+  <unicode hex="E050"/>
+  <anchor x="294" y="0" name="bottom"/>
+  <anchor x="295" y="745" name="centerr"/>
+  <anchor x="229" y="769" name="cross"/>
+  <anchor x="435" y="1490" name="raccent"/>
+  <anchor x="228" y="1490" name="top"/>
+  <outline>
+    <contour>
+      <point x="161.0" y="255.0" type="line" smooth="yes"/>
+      <point x="161.0" y="88.0"/>
+      <point x="279.0" y="-22.0"/>
+      <point x="455.0" y="-11.0" type="curve" smooth="yes"/>
+      <point x="475.99586075894587" y="-10.447477348448793"/>
+      <point x="498.5181279202776" y="-8.063267014034528"/>
+      <point x="518.3499309200403" y="-4.690743109548191" type="curve" smooth="yes"/>
+      <point x="549.6355130717742" y="0.6295685975495449"/>
+      <point x="557.1339026546083" y="14.924244973219551"/>
+      <point x="551.2694611989818" y="46.112410896324064" type="curve" smooth="yes"/>
+      <point x="545.4406275747855" y="77.11120789773179" type="line" smooth="yes"/>
+      <point x="539.1172269968591" y="110.74020188034012"/>
+      <point x="525.6238421369212" y="120.62261652545102"/>
+      <point x="491.78115186624694" y="115.56623972042217" type="curve" smooth="yes"/>
+      <point x="476.9849843931411" y="113.35557037303978"/>
+      <point x="464.2387588094005" y="111.51492242558751"/>
+      <point x="456.0" y="111.0" type="curve" smooth="yes"/>
+      <point x="356.0" y="101.0"/>
+      <point x="295.0" y="161.0"/>
+      <point x="295.0" y="264.0" type="curve" smooth="yes"/>
+      <point x="295.0" y="1491.425" type="line" smooth="yes"/>
+      <point x="295.0" y="1527.3064224295535"/>
+      <point x="282.3064224295537" y="1540.0"/>
+      <point x="246.425" y="1540.0" type="curve" smooth="yes"/>
+      <point x="209.575" y="1540.0" type="line" smooth="yes"/>
+      <point x="173.69357757044628" y="1540.0"/>
+      <point x="161.0" y="1527.3064224295535"/>
+      <point x="161.0" y="1491.425" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

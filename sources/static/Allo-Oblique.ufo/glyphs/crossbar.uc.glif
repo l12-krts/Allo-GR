@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="crossbar.uc" format="2">
+  <advance width="887"/>
+  <unicode hex="EEDE"/>
+  <anchor x="443" y="745" name="_cross"/>
+  <outline>
+    <contour>
+      <point x="70.08238170941111" y="742.6189364678686" type="line" smooth="yes"/>
+      <point x="61.783877395525494" y="690.2242362918566"/>
+      <point x="80.76516870130874" y="668.0"/>
+      <point x="133.8129752571105" y="668.0" type="curve" smooth="yes"/>
+      <point x="808.1543466011166" y="668.0" type="line" smooth="yes"/>
+      <point x="850.6057653482537" y="668.0"/>
+      <point x="865.2440847078681" y="680.5023081976142"/>
+      <point x="871.8849418562245" y="722.4310807765953" type="curve" smooth="yes"/>
+      <point x="875.8366278401361" y="747.3810743122921" type="line" smooth="yes"/>
+      <point x="884.1351223683519" y="799.7757700644205"/>
+      <point x="865.1538332405967" y="822.0"/>
+      <point x="812.1060325850282" y="822.0" type="curve" smooth="yes"/>
+      <point x="137.7646655672345" y="822.0" type="line" smooth="yes"/>
+      <point x="95.31325234844061" y="822.0"/>
+      <point x="80.67493539540587" y="809.497695998951"/>
+      <point x="74.03407201953509" y="767.5689300035654" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

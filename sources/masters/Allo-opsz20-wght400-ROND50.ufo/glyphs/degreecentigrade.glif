@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="degreecentigrade" format="2">
+  <advance width="2344"/>
+  <unicode hex="2103"/>
+  <anchor x="1639" y="-7" name="cedilla"/>
+  <anchor x="1642" y="745" name="center"/>
+  <anchor x="1640" y="1490" name="top"/>
+  <anchor x="2254" y="1017" name="topr"/>
+  <outline>
+    <component base="degree"/>
+    <component base="C" xOffset="877"/>
+  </outline>
+</glyph>

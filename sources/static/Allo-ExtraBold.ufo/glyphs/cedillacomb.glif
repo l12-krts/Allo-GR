@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cedillacomb" format="2">
+  <unicode hex="0327"/>
+  <anchor x="392" y="0" name="_cedilla"/>
+  <outline>
+    <contour>
+      <point x="236.1875" y="-417.015625" type="curve" smooth="yes"/>
+      <point x="236.1875" y="-467.7003580055169"/>
+      <point x="258.0496419944831" y="-489.5625"/>
+      <point x="308.734375" y="-489.5625" type="curve" smooth="yes"/>
+      <point x="407.1875" y="-489.5625" type="line" smooth="yes"/>
+      <point x="584.9375" y="-489.5625"/>
+      <point x="685.5625" y="-418.65625"/>
+      <point x="685.5625" y="-287.5625" type="curve" smooth="yes"/>
+      <point x="685.5625" y="-188.2213001377143"/>
+      <point x="617.3389970226148" y="-120.16230555768591"/>
+      <point x="513.9208702310809" y="-109.33269914146618" type="curve" smooth="yes"/>
+      <point x="472.3122081447431" y="-104.97557676959389"/>
+      <point x="456.11610718162177" y="-92.01621556203727"/>
+      <point x="458.9053123180473" y="-50.27312498784222" type="curve" smooth="yes"/>
+      <point x="471.15008544921875" y="132.98147583007812" type="line"/>
+      <point x="338.09161376953125" y="132.98147583007812" type="line"/>
+      <point x="291.7349367350838" y="-120.61309113049724" type="line" smooth="yes"/>
+      <point x="280.69342361086456" y="-181.01577567247116"/>
+      <point x="302.67100554640047" y="-207.375"/>
+      <point x="364.07458290105893" y="-207.375" type="curve" smooth="yes"/>
+      <point x="386.21875" y="-207.375" type="line" smooth="yes"/>
+      <point x="448.1875" y="-207.375"/>
+      <point x="482.46875" y="-232.03125"/>
+      <point x="482.46875" y="-275.53125" type="curve" smooth="yes"/>
+      <point x="482.46875" y="-319.8125"/>
+      <point x="448.1875" y="-344.46875"/>
+      <point x="386.21875" y="-344.46875" type="curve" smooth="yes"/>
+      <point x="308.734375" y="-344.46875" type="line" smooth="yes"/>
+      <point x="258.0496419944831" y="-344.46875"/>
+      <point x="236.1875" y="-366.3308919944831"/>
+    </contour>
+  </outline>
+</glyph>

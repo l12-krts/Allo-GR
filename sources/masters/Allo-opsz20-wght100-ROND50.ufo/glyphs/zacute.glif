@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zacute" format="2">
+  <advance width="985"/>
+  <unicode hex="017A"/>
+  <anchor x="471" y="0" name="bottom"/>
+  <anchor x="867" y="0" name="bottomr"/>
+  <anchor x="481" y="548" name="cross"/>
+  <anchor x="485" y="1535" name="top"/>
+  <outline>
+    <component base="z"/>
+    <component base="acutecomb" xOffset="312"/>
+  </outline>
+</glyph>

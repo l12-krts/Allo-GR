@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni021A" format="2">
+  <advance width="1367"/>
+  <unicode hex="021A"/>
+  <anchor x="683" y="0" name="bottom"/>
+  <anchor x="879" y="0" name="bottomr"/>
+  <anchor x="684" y="0" name="cedilla"/>
+  <anchor x="688" y="666" name="cross"/>
+  <anchor x="883" y="0" name="cyrtic"/>
+  <anchor x="835" y="0" name="right"/>
+  <anchor x="683" y="1490" name="top"/>
+  <outline>
+    <component base="T"/>
+    <component base="commaaccent" xOffset="419"/>
+  </outline>
+</glyph>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cedillacomb" format="2">
+  <unicode hex="0327"/>
+  <anchor x="223" y="0" name="_cedilla"/>
+  <outline>
+    <contour>
+      <point x="126.0" y="-385.7375" type="line" smooth="yes"/>
+      <point x="126.0" y="-409.56919101664386"/>
+      <point x="134.43080898335614" y="-418.0"/>
+      <point x="158.2625" y="-418.0" type="curve" smooth="yes"/>
+      <point x="230.0" y="-418.0" type="line" smooth="yes"/>
+      <point x="348.0" y="-418.0"/>
+      <point x="425.0" y="-354.0"/>
+      <point x="425.0" y="-257.0" type="curve" smooth="yes"/>
+      <point x="425.0" y="-163.0"/>
+      <point x="352.0" y="-101.0"/>
+      <point x="238.0" y="-97.0" type="curve"/>
+      <point x="255.90554809570312" y="44.00621032714844" type="line"/>
+      <point x="197.93772888183594" y="44.00621032714844" type="line"/>
+      <point x="165.52936054695678" y="-121.53921731713689" type="line" smooth="yes"/>
+      <point x="160.3116283378553" y="-148.1919540721509"/>
+      <point x="170.0321890862207" y="-160.0"/>
+      <point x="197.19085447938704" y="-160.0" type="curve" smooth="yes"/>
+      <point x="225.0" y="-160.0" type="line" smooth="yes"/>
+      <point x="304.0" y="-160.0"/>
+      <point x="350.0" y="-198.0"/>
+      <point x="350.0" y="-256.0" type="curve" smooth="yes"/>
+      <point x="350.0" y="-315.0"/>
+      <point x="304.0" y="-352.0"/>
+      <point x="229.0" y="-352.0" type="curve" smooth="yes"/>
+      <point x="158.2625" y="-352.0" type="line" smooth="yes"/>
+      <point x="134.43080898335614" y="-352.0"/>
+      <point x="126.0" y="-360.43080898335614"/>
+      <point x="126.0" y="-384.2625" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

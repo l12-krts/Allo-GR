@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Acircumflextilde" format="2">
+  <advance width="1452"/>
+  <unicode hex="1EAA"/>
+  <anchor x="745" y="0" name="bottom"/>
+  <anchor x="1435" y="0" name="ogonek"/>
+  <anchor x="491" y="1490" name="tonos"/>
+  <anchor x="745" y="1490" name="top"/>
+  <outline>
+    <component base="A"/>
+    <component base="circumflextildecomb.cn" xOffset="270.0" yOffset="372.0"/>
+  </outline>
+</glyph>

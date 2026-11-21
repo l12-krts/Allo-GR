@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="blackSquare" format="2">
+  <advance width="1592"/>
+  <unicode hex="25A0"/>
+  <outline>
+    <contour>
+      <point x="156.0" y="129.4925913244081"/>
+      <point x="179.4925913244081" y="106.0"/>
+      <point x="245.89999999999998" y="106.0" type="curve"/>
+      <point x="1344.1" y="106.0" type="line"/>
+      <point x="1410.5074086755917" y="106.0"/>
+      <point x="1434.0" y="129.49259132440807"/>
+      <point x="1434.0" y="195.89999999999998" type="curve"/>
+      <point x="1434.0" y="1294.1" type="line"/>
+      <point x="1434.0" y="1360.507408675592"/>
+      <point x="1410.507408675592" y="1384.0"/>
+      <point x="1344.1" y="1384.0" type="curve"/>
+      <point x="245.89999999999998" y="1384.0" type="line"/>
+      <point x="179.49259132440807" y="1384.0"/>
+      <point x="156.0" y="1360.5074086755917"/>
+      <point x="156.0" y="1294.1" type="curve"/>
+      <point x="156.0" y="195.89999999999998" type="line"/>
+    </contour>
+  </outline>
+</glyph>

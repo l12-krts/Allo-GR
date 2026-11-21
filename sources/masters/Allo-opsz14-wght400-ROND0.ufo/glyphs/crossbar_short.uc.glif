@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="crossbar_short.uc" format="2">
+  <advance width="848"/>
+  <anchor x="443" y="745" name="_cross"/>
+  <outline>
+    <contour>
+      <point x="41.0" y="668.003789127633"/>
+      <point x="41.00378912763297" y="668.0"/>
+      <point x="41.0145" y="668.0" type="curve"/>
+      <point x="806.9855" y="668.0" type="line"/>
+      <point x="806.996210872367" y="668.0"/>
+      <point x="807.0" y="668.003789127633"/>
+      <point x="807.0" y="668.0145" type="curve"/>
+      <point x="807.0" y="821.9855" type="line"/>
+      <point x="807.0" y="821.996210872367"/>
+      <point x="806.996210872367" y="822.0"/>
+      <point x="806.9855" y="822.0" type="curve"/>
+      <point x="41.0145" y="822.0" type="line"/>
+      <point x="41.00378912763297" y="822.0"/>
+      <point x="41.0" y="821.996210872367"/>
+      <point x="41.0" y="821.9855" type="curve"/>
+      <point x="41.0" y="668.0145" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acutecomb" format="2">
+  <unicode hex="0301"/>
+  <anchor x="247" y="1118" name="_top"/>
+  <anchor x="247" y="1563" name="top"/>
+  <outline>
+    <contour>
+      <point x="204.86352880092892" y="1362.7033234802802" type="line" smooth="yes"/>
+      <point x="176.20159928685806" y="1300.394781058387"/>
+      <point x="200.16144638409025" y="1263.0"/>
+      <point x="268.7461433813828" y="1263.0" type="curve" smooth="yes"/>
+      <point x="315.70495515467263" y="1263.0"/>
+      <point x="330.1020488358556" y="1270.7696175165315"/>
+      <point x="355.877734152911" y="1310.021930182098" type="curve" smooth="yes"/>
+      <point x="441.6228103696553" y="1440.5981883801858" type="line" smooth="yes"/>
+      <point x="487.777733535286" y="1510.8848734039889"/>
+      <point x="459.65298770510213" y="1563.0"/>
+      <point x="375.5667520653699" y="1563.0" type="curve" smooth="yes"/>
+      <point x="360.22" y="1563.0" type="line" smooth="yes"/>
+      <point x="308.6843660481935" y="1563.0"/>
+      <point x="292.1170378998227" y="1552.3848649996146"/>
+      <point x="270.58000744756384" y="1505.5652335816606" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

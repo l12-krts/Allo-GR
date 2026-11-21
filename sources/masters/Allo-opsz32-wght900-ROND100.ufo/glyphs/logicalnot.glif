@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="logicalnot" format="2">
+  <advance width="1321"/>
+  <unicode hex="00AC"/>
+  <outline>
+    <contour>
+      <point x="810.0" y="406.30601290232687"/>
+      <point x="882.3060129023269" y="334.0"/>
+      <point x="971.5" y="334.0" type="curve"/>
+      <point x="971.5" y="334.0" type="line"/>
+      <point x="1060.6939870976732" y="334.0"/>
+      <point x="1133.0" y="406.30601290232687"/>
+      <point x="1133.0" y="495.5" type="curve"/>
+      <point x="1133.0" y="574.0" type="line"/>
+      <point x="1133.0" y="751.2834046956847"/>
+      <point x="1070.2834046956846" y="814.0"/>
+      <point x="893.0" y="814.0" type="curve"/>
+      <point x="333.0" y="814.0" type="line"/>
+      <point x="247.395863776227" y="814.0"/>
+      <point x="178.0" y="744.604136223773"/>
+      <point x="178.0" y="659.0" type="curve"/>
+      <point x="178.0" y="659.0" type="line"/>
+      <point x="178.0" y="573.395863776227"/>
+      <point x="247.395863776227" y="504.0"/>
+      <point x="333.0" y="504.0" type="curve"/>
+      <point x="810.0" y="504.0" type="line"/>
+      <point x="810.0" y="495.5" type="line"/>
+    </contour>
+  </outline>
+</glyph>

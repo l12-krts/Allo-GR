@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ringcomb.uc" format="2">
+  <unicode hex="EE07"/>
+  <anchor x="415" y="1490" name="_top"/>
+  <outline>
+    <contour>
+      <point x="574.0" y="1558.0"/>
+      <point x="687.0" y="1662.0"/>
+      <point x="687.0" y="1799.0" type="curve"/>
+      <point x="687.0" y="1935.0"/>
+      <point x="574.0" y="2039.0"/>
+      <point x="415.0" y="2039.0" type="curve"/>
+      <point x="257.0" y="2039.0"/>
+      <point x="143.0" y="1935.0"/>
+      <point x="143.0" y="1799.0" type="curve"/>
+      <point x="143.0" y="1662.0"/>
+      <point x="257.0" y="1558.0"/>
+      <point x="415.0" y="1558.0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="355.0" y="1700.0"/>
+      <point x="312.0" y="1741.0"/>
+      <point x="312.0" y="1799.0" type="curve"/>
+      <point x="312.0" y="1856.0"/>
+      <point x="355.0" y="1898.0"/>
+      <point x="415.0" y="1898.0" type="curve"/>
+      <point x="475.0" y="1898.0"/>
+      <point x="518.0" y="1856.0"/>
+      <point x="518.0" y="1799.0" type="curve"/>
+      <point x="518.0" y="1741.0"/>
+      <point x="475.0" y="1700.0"/>
+      <point x="415.0" y="1700.0" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="commaaccentright.cn" format="2">
+  <advance width="534"/>
+  <anchor x="208" y="1490" name="_raccent"/>
+  <outline>
+    <contour>
+      <point x="208.0" y="1230.575" type="line" smooth="yes"/>
+      <point x="208.0" y="1194.6935775704465"/>
+      <point x="220.69357757044628" y="1182.0"/>
+      <point x="256.575" y="1182.0" type="curve" smooth="yes"/>
+      <point x="262.06336617959033" y="1182.0" type="line" smooth="yes"/>
+      <point x="295.4282881824774" y="1182.0"/>
+      <point x="307.05743484103715" y="1192.5186939450537"/>
+      <point x="310.39475916498066" y="1225.7162885358603" type="curve" smooth="yes"/>
+      <point x="338.62835704857855" y="1506.5662885358602" type="line" smooth="yes"/>
+      <point x="342.47438603445954" y="1544.8241558164657"/>
+      <point x="328.74766428855037" y="1560.0"/>
+      <point x="290.2969640631882" y="1560.0" type="curve" smooth="yes"/>
+      <point x="256.575" y="1560.0" type="line" smooth="yes"/>
+      <point x="220.69357757044628" y="1560.0"/>
+      <point x="208.0" y="1547.3064224295535"/>
+      <point x="208.0" y="1511.425" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

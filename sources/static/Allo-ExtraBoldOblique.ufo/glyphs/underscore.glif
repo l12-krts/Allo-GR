@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="underscore" format="2">
+  <advance width="947"/>
+  <unicode hex="005F"/>
+  <anchor x="474" y="156" name="_bottom"/>
+  <outline>
+    <contour>
+      <point x="861.4313505296634" y="-208.55428850066528" type="line"/>
+      <point x="877.5074755257378" y="-107.05352551026122"/>
+      <point x="840.7362850271016" y="-64.0"/>
+      <point x="737.970304846287" y="-64.0" type="curve" smooth="yes"/>
+      <point x="-26.913424129557427" y="-64.0" type="line" smooth="yes"/>
+      <point x="-109.15172299229691" y="-64.0"/>
+      <point x="-137.50956043700327" y="-88.21988076161986"/>
+      <point x="-150.37446632005557" y="-169.4456894461597" type="curve" smooth="yes"/>
+      <point x="-166.45061133485729" y="-270.9464614865838"/>
+      <point x="-129.67941638058895" y="-314.0"/>
+      <point x="-26.913424129557427" y="-314.0" type="curve" smooth="yes"/>
+      <point x="737.970304846287" y="-314.0" type="line" smooth="yes"/>
+      <point x="820.2086150184613" y="-314.0"/>
+      <point x="848.5664573863522" y="-289.7801106533891"/>
+      <point x="861.4313505296634" y="-208.55428850066525" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

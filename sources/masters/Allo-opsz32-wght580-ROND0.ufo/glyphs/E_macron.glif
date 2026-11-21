@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Emacron" format="2">
+  <advance width="1210"/>
+  <unicode hex="0112"/>
+  <anchor x="641" y="0" name="bottom"/>
+  <anchor x="649" y="0" name="cedilla"/>
+  <anchor x="1164" y="0" name="ogonek"/>
+  <anchor x="102" y="1490" name="tonos"/>
+  <anchor x="614" y="1857" name="top"/>
+  <outline>
+    <component base="E"/>
+    <component base="macroncomb" xOffset="234" yOffset="434"/>
+  </outline>
+</glyph>

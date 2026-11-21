@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acute" format="2">
+  <advance width="797"/>
+  <unicode hex="00B4"/>
+  <anchor x="293" y="1118" name="_top"/>
+  <anchor x="293" y="1582" name="top"/>
+  <outline>
+    <contour>
+      <point x="359.8421144587095" y="1410.5861537361259" type="line" smooth="yes"/>
+      <point x="306.6996080372709" y="1318.744181937706"/>
+      <point x="342.88486856935583" y="1256.0"/>
+      <point x="448.9936512999782" y="1256.0" type="curve" smooth="yes"/>
+      <point x="518.7637539300492" y="1256.0"/>
+      <point x="539.4081600907613" y="1265.7619469311558"/>
+      <point x="583.6789390794168" y="1319.687500695102" type="curve" smooth="yes"/>
+      <point x="644.928686153356" y="1394.2948738725697" type="line" smooth="yes"/>
+      <point x="727.2242024910638" y="1494.537774317985"/>
+      <point x="685.8666745030004" y="1582.0"/>
+      <point x="556.1701398577009" y="1582.0" type="curve" smooth="yes"/>
+      <point x="475.75813664133176" y="1582.0"/>
+      <point x="450.647962084225" y="1567.518685871829"/>
+      <point x="410.3751845881791" y="1497.9184441048399" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

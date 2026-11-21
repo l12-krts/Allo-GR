@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gravecomb" format="2">
+  <unicode hex="0300"/>
+  <anchor x="386" y="1118" name="_top"/>
+  <anchor x="384" y="1558" name="top"/>
+  <outline>
+    <contour>
+      <point x="288.47695038612585" y="1321.0870005131537" type="line" smooth="yes"/>
+      <point x="302.8961554203459" y="1293.8606754795953"/>
+      <point x="312.63184501113966" y="1288.0"/>
+      <point x="343.4407114078743" y="1288.0" type="curve" smooth="yes"/>
+      <point x="388.5820497212671" y="1288.0"/>
+      <point x="404.41118797208765" y="1312.2029989209425"/>
+      <point x="386.3176893832244" y="1353.5595671240585" type="curve" smooth="yes"/>
+      <point x="297.57581989000585" y="1556.398125965701" type="line" smooth="yes"/>
+      <point x="284.92050909387797" y="1585.3245506425646"/>
+      <point x="274.71364305766537" y="1592.0"/>
+      <point x="243.14" y="1592.0" type="curve" smooth="yes"/>
+      <point x="225.69225527318588" y="1592.0" type="line" smooth="yes"/>
+      <point x="176.7288793136484" y="1592.0"/>
+      <point x="159.84979065565392" y="1563.9606437309392"/>
+      <point x="182.76569246251174" y="1520.6908664061891" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

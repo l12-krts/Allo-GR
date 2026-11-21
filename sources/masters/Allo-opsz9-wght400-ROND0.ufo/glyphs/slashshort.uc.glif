@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="slashshort.uc" format="2">
+  <advance width="755"/>
+  <unicode hex="EEE1"/>
+  <anchor x="414" y="769" name="_cross"/>
+  <outline>
+    <contour>
+      <point x="9.0" y="535.0102788556262"/>
+      <point x="9.008878221666407" y="535.0051799665082"/>
+      <point x="9.021807186432092" y="535.0127233245126" type="curve"/>
+      <point x="745.9899806578596" y="964.9941542508543" type="line"/>
+      <point x="745.9982789798789" y="964.9989958769986"/>
+      <point x="746.0" y="965.0019925293622"/>
+      <point x="746.0" y="965.0116" type="curve"/>
+      <point x="746.0" y="1153.974752497812" type="line"/>
+      <point x="746.0" y="1153.9897211443738"/>
+      <point x="745.9911217783336" y="1153.9948200334918"/>
+      <point x="745.978192813568" y="1153.9872766754875" type="curve"/>
+      <point x="9.010019342140374" y="724.0058457491457" type="line"/>
+      <point x="9.001721020121046" y="724.0010041230014"/>
+      <point x="9.0" y="723.9980074706378"/>
+      <point x="9.0" y="723.9884" type="curve"/>
+      <point x="9.0" y="535.0252475021881" type="line"/>
+    </contour>
+  </outline>
+</glyph>

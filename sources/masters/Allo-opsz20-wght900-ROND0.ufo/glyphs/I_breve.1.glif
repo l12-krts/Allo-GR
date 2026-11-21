@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ibreve.1" format="2">
+  <advance width="849"/>
+  <unicode hex="E016"/>
+  <anchor x="478" y="0" name="bottom"/>
+  <anchor x="476" y="788" name="cross"/>
+  <anchor x="913" y="0" name="ogonek"/>
+  <anchor x="939" y="0" name="right"/>
+  <anchor x="42" y="1490" name="tonos"/>
+  <anchor x="478" y="1950" name="top"/>
+  <outline>
+    <component base="I.1"/>
+    <component base="brevecomb" xOffset="15" yOffset="393"/>
+  </outline>
+</glyph>

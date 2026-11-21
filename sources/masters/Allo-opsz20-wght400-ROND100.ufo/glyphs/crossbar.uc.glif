@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="crossbar.uc" format="2">
+  <advance width="872"/>
+  <unicode hex="EEDE"/>
+  <anchor x="436" y="745" name="_cross"/>
+  <outline>
+    <contour>
+      <point x="38.0" y="701.9217895131981"/>
+      <point x="72.92178951319809" y="667.0"/>
+      <point x="116.0" y="667.0" type="curve"/>
+      <point x="756.0" y="667.0" type="line"/>
+      <point x="799.0782104868019" y="667.0"/>
+      <point x="834.0" y="701.9217895131981"/>
+      <point x="834.0" y="745.0" type="curve"/>
+      <point x="834.0" y="745.0" type="line"/>
+      <point x="834.0" y="788.0782104868019"/>
+      <point x="799.0782104868019" y="823.0"/>
+      <point x="756.0" y="823.0" type="curve"/>
+      <point x="116.0" y="823.0" type="line"/>
+      <point x="72.92178951319809" y="823.0"/>
+      <point x="38.0" y="788.0782104868019"/>
+      <point x="38.0" y="745.0" type="curve"/>
+      <point x="38.0" y="745.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

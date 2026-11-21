@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="P" format="2">
+  <advance width="1336"/>
+  <unicode hex="0050"/>
+  <anchor x="154" y="1490" name="tonos"/>
+  <anchor x="665" y="1490" name="top"/>
+  <anchor x="187" y="1490" name="topl"/>
+  <outline>
+    <contour>
+      <point x="187.0" y="0.003789127632969718"/>
+      <point x="187.00378912763296" y="0.0"/>
+      <point x="187.0145" y="0.0" type="curve"/>
+      <point x="374.9855" y="0.0" type="line"/>
+      <point x="374.99621087236704" y="0.0"/>
+      <point x="375.0" y="0.003789127632969718"/>
+      <point x="375.0" y="0.014499999999999997" type="curve"/>
+      <point x="375.0" y="539.0" type="line"/>
+      <point x="705.0" y="539.0" type="line"/>
+      <point x="1016.0" y="539.0"/>
+      <point x="1219.0" y="752.0"/>
+      <point x="1219.0" y="1016.0" type="curve"/>
+      <point x="1219.0" y="1279.0"/>
+      <point x="1016.0" y="1490.0"/>
+      <point x="704.0" y="1490.0" type="curve"/>
+      <point x="187.0145" y="1490.0" type="line"/>
+      <point x="187.00378912763296" y="1490.0"/>
+      <point x="187.0" y="1489.996210872367"/>
+      <point x="187.0" y="1489.9855" type="curve"/>
+      <point x="187.0" y="0.014499999999999997" type="line"/>
+    </contour>
+    <contour>
+      <point x="375.0" y="1323.0" type="line"/>
+      <point x="694.0" y="1323.0" type="line"/>
+      <point x="904.0" y="1323.0"/>
+      <point x="1031.0" y="1188.0"/>
+      <point x="1031.0" y="1016.0" type="curve"/>
+      <point x="1031.0" y="843.0"/>
+      <point x="904.0" y="706.0"/>
+      <point x="696.0" y="706.0" type="curve"/>
+      <point x="375.0" y="706.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

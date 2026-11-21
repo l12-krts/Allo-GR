@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zero.slash" format="2">
+  <advance width="1292"/>
+  <unicode hex="E06B"/>
+  <anchor x="646" y="745" name="center"/>
+  <anchor x="646" y="1490" name="top"/>
+  <outline>
+    <component base="zero"/>
+    <component base="_part.zeroslash" xOffset="1"/>
+  </outline>
+</glyph>

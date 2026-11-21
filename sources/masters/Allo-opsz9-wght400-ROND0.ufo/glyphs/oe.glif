@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oe" format="2">
+  <advance width="2044"/>
+  <unicode hex="0153"/>
+  <anchor x="1453" y="0" name="bottom"/>
+  <anchor x="623" y="559" name="center"/>
+  <anchor x="1925" y="260" name="ogonek"/>
+  <anchor x="1453" y="1118" name="top"/>
+  <anchor x="630" y="1132" name="tophorn"/>
+  <anchor x="1455" y="0" name="cedilla"/>
+  <outline>
+    <component base="o"/>
+    <component base="e" xOffset="844"/>
+  </outline>
+</glyph>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ntilde" format="2">
+  <advance width="1252"/>
+  <unicode hex="00F1"/>
+  <anchor x="625" y="0" name="bottom"/>
+  <anchor x="1134" y="0" name="bottomr"/>
+  <anchor x="118" y="0" name="lfthook"/>
+  <anchor x="623" y="1547" name="top"/>
+  <anchor x="422" y="1118" name="topr"/>
+  <outline>
+    <component base="n"/>
+    <component base="tildecomb" xOffset="121"/>
+  </outline>
+</glyph>

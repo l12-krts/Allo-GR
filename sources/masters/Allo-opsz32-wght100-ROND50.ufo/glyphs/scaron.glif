@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="scaron" format="2">
+  <advance width="865"/>
+  <unicode hex="0161"/>
+  <anchor x="436" y="0" name="bottom"/>
+  <anchor x="428" y="0" name="cedilla"/>
+  <anchor x="59" y="316" name="rthook"/>
+  <anchor x="436" y="1515" name="top"/>
+  <outline>
+    <component base="s"/>
+    <component base="caroncomb" xOffset="108"/>
+  </outline>
+</glyph>

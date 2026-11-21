@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="abrevetilde.1" format="2">
+  <advance width="1290"/>
+  <unicode hex="E033"/>
+  <anchor x="634" y="0" name="bottom"/>
+  <anchor x="1185" y="0" name="bottomr"/>
+  <anchor x="1185" y="0" name="ogonek"/>
+  <anchor x="635" y="1873" name="top"/>
+  <anchor x="1185" y="1097" name="topr"/>
+  <outline>
+    <component base="a.1"/>
+    <component base="brevetildecomb.cn" xOffset="170"/>
+  </outline>
+</glyph>

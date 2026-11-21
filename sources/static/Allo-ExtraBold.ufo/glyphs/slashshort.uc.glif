@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="slashshort.uc" format="2">
+  <advance width="865"/>
+  <unicode hex="EEE1"/>
+  <anchor x="435" y="784" name="_cross"/>
+  <outline>
+    <contour>
+      <point x="-8.0" y="618.4445457638249" type="curve" smooth="yes"/>
+      <point x="-8.0" y="499.0118847687172"/>
+      <point x="62.8372192491497" y="458.32841168452086"/>
+      <point x="165.9963847320398" y="518.5143493215305" type="curve" smooth="yes"/>
+      <point x="793.0558428461645" y="884.3583464505432" type="line" smooth="yes"/>
+      <point x="859.2678698999453" y="922.9882918599"/>
+      <point x="873.0" y="946.8983918811614"/>
+      <point x="873.0" y="1023.5554542361751" type="curve" smooth="yes"/>
+      <point x="873.0" y="1142.9881152312828"/>
+      <point x="802.1627807508503" y="1183.671588315479"/>
+      <point x="699.0036152679602" y="1123.4856506784695" type="curve" smooth="yes"/>
+      <point x="71.94415715383549" y="757.6416535494568" type="line" smooth="yes"/>
+      <point x="5.732130100054746" y="719.0117081401"/>
+      <point x="-8.0" y="695.1016081188386"/>
+    </contour>
+  </outline>
+</glyph>

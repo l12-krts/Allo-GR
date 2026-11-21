@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Lcaron" format="2">
+  <advance width="1130"/>
+  <unicode hex="013D"/>
+  <anchor x="604" y="0" name="bottom"/>
+  <anchor x="373" y="745" name="cross"/>
+  <anchor x="601" y="824" name="dot"/>
+  <anchor x="643" y="1490" name="raccent"/>
+  <anchor x="277" y="1490" name="top"/>
+  <outline>
+    <component base="L"/>
+    <component base="commaaccentright.cn" xOffset="475"/>
+  </outline>
+</glyph>

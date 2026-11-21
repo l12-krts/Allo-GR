@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="l" format="2">
+  <advance width="486"/>
+  <unicode hex="006C"/>
+  <anchor x="242" y="0" name="bottom"/>
+  <anchor x="371" y="0" name="bottomr"/>
+  <anchor x="371" y="745" name="centerr"/>
+  <anchor x="242" y="768" name="cross"/>
+  <anchor x="503" y="1490" name="raccent"/>
+  <anchor x="243" y="1490" name="top"/>
+  <outline>
+    <contour>
+      <point x="370.0" y="1483.1401632285108"/>
+      <point x="313.1401632285108" y="1540.0"/>
+      <point x="243.0" y="1540.0" type="curve"/>
+      <point x="243.0" y="1540.0" type="line"/>
+      <point x="172.85983677148923" y="1540.0"/>
+      <point x="116.0" y="1483.1401632285108"/>
+      <point x="116.0" y="1413.0" type="curve"/>
+      <point x="116.0" y="127.0" type="line"/>
+      <point x="116.0" y="56.85983677148923"/>
+      <point x="172.85983677148923" y="0.0"/>
+      <point x="243.0" y="0.0" type="curve"/>
+      <point x="243.0" y="0.0" type="line"/>
+      <point x="313.1401632285108" y="0.0"/>
+      <point x="370.0" y="56.85983677148923"/>
+      <point x="370.0" y="127.0" type="curve"/>
+      <point x="370.0" y="1413.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

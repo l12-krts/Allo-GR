@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ohorngrave" format="2">
+  <advance width="1192"/>
+  <unicode hex="1EDD"/>
+  <anchor x="604" y="0" name="bottom"/>
+  <anchor x="604" y="559" name="center"/>
+  <anchor x="1069" y="556" name="ogonek"/>
+  <anchor x="593" y="1557" name="top"/>
+  <anchor x="611" y="1134" name="tophorn"/>
+  <outline>
+    <component base="ohorn"/>
+    <component base="gravecomb" xOffset="244"/>
+  </outline>
+</glyph>

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="two.dnom" format="2">
+  <advance width="825"/>
+  <unicode hex="E0B6"/>
+  <anchor x="408" y="353" name="cross"/>
+  <anchor x="363" y="797" name="top"/>
+  <outline>
+    <component base="two.sups" xOffset="-78" yOffset="-900"/>
+  </outline>
+</glyph>

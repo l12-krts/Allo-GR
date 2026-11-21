@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ocircumflexgrave" format="2">
+  <advance width="1253"/>
+  <unicode hex="1ED3"/>
+  <anchor x="627" y="0" name="bottom"/>
+  <anchor x="627" y="559" name="center"/>
+  <anchor x="1190" y="555" name="ogonek"/>
+  <anchor x="620" y="1892" name="top"/>
+  <anchor x="634" y="1132" name="tophorn"/>
+  <outline>
+    <component base="o"/>
+    <component base="circumflexgravecomb.cn" xOffset="143"/>
+  </outline>
+</glyph>

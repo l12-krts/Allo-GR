@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="heartBlackSuit" format="2">
+  <advance width="1718"/>
+  <unicode hex="2665"/>
+  <outline>
+    <contour>
+      <point x="82.0" y="833.0"/>
+      <point x="130.0" y="670.0"/>
+      <point x="245.0" y="561.0" type="curve"/>
+      <point x="836.6786875058547" y="5.939863186690072" type="line"/>
+      <point x="853.4664672538584" y="-9.808933449873614"/>
+      <point x="864.5335327461416" y="-9.808933449873614"/>
+      <point x="881.3213124941453" y="5.939863186690072" type="curve"/>
+      <point x="1473.0" y="561.0" type="line"/>
+      <point x="1588.0" y="670.0"/>
+      <point x="1636.0" y="833.0"/>
+      <point x="1597.0" y="986.0" type="curve"/>
+      <point x="1558.0" y="1140.0"/>
+      <point x="1438.0" y="1260.0"/>
+      <point x="1285.0" y="1300.0" type="curve"/>
+      <point x="1131.0" y="1341.0"/>
+      <point x="968.0" y="1294.0"/>
+      <point x="859.0" y="1179.0" type="curve"/>
+      <point x="750.0" y="1294.0"/>
+      <point x="587.0" y="1341.0"/>
+      <point x="433.0" y="1300.0" type="curve"/>
+      <point x="280.0" y="1260.0"/>
+      <point x="160.0" y="1140.0"/>
+      <point x="121.0" y="986.0" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

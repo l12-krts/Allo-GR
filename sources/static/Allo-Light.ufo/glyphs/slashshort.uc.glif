@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="slashshort.uc" format="2">
+  <advance width="709"/>
+  <unicode hex="EEE1"/>
+  <anchor x="379" y="769" name="_cross"/>
+  <outline>
+    <contour>
+      <point x="-8.0" y="664.6800631308289" type="line" smooth="yes"/>
+      <point x="-8.0" y="614.5053179231065"/>
+      <point x="21.785576089827785" y="597.4194265683958"/>
+      <point x="65.09726776885319" y="622.7492986675776" type="curve" smooth="yes"/>
+      <point x="683.4553884293989" y="984.3821857849174" type="line" smooth="yes"/>
+      <point x="711.2424472297721" y="1000.6328243109288"/>
+      <point x="717.0" y="1010.6698790111238"/>
+      <point x="717.0" y="1042.86" type="curve" smooth="yes"/>
+      <point x="717.0" y="1062.4207309476901" type="line" smooth="yes"/>
+      <point x="717.0" y="1112.5657372995183"/>
+      <point x="687.2578984228677" y="1129.6470221143077"/>
+      <point x="643.9458668723516" y="1104.3766919820755" type="curve" smooth="yes"/>
+      <point x="25.564768827508352" y="743.5833065021187" type="line" smooth="yes"/>
+      <point x="-2.234593260440864" y="727.3638166218394"/>
+      <point x="-8.0" y="717.3250335478059"/>
+      <point x="-8.0" y="685.14" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

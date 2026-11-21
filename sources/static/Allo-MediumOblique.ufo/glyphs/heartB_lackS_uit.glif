@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="heartBlackSuit" format="2">
+  <advance width="1913"/>
+  <unicode hex="2665"/>
+  <outline>
+    <contour>
+      <point x="251.1332244873047" y="1046.0" type="curve" smooth="yes"/>
+      <point x="184.31655883789062" y="883.0"/>
+      <point x="207.07443237304688" y="711.0"/>
+      <point x="311.70184326171875" y="595.0" type="curve" smooth="yes"/>
+      <point x="815.6973981389827" y="40.444930362994" type="line" smooth="yes"/>
+      <point x="853.4865079048764" y="-1.13508397433273"/>
+      <point x="880.6037930301411" y="-3.1556119498291793"/>
+      <point x="924.1377220919296" y="32.36496560226332" type="curve" smooth="yes"/>
+      <point x="1613.7017822265625" y="595.0" type="line" smooth="yes"/>
+      <point x="1755.074462890625" y="711.0"/>
+      <point x="1832.3165283203125" y="883.0"/>
+      <point x="1817.1331787109375" y="1046.0" type="curve" smooth="yes"/>
+      <point x="1800.9498291015625" y="1209.0"/>
+      <point x="1695.22314453125" y="1337.0"/>
+      <point x="1539.0335693359375" y="1380.0" type="curve" smooth="yes"/>
+      <point x="1382.8441162109375" y="1423.0"/>
+      <point x="1201.9249267578125" y="1373.0"/>
+      <point x="1066.7603759765625" y="1252.0" type="curve"/>
+      <point x="969.9249267578125" y="1373.0"/>
+      <point x="804.8441772460938" y="1423.0"/>
+      <point x="635.0336303710938" y="1380.0" type="curve" smooth="yes"/>
+      <point x="465.22308349609375" y="1337.0"/>
+      <point x="318.94989013671875" y="1209.0"/>
+    </contour>
+  </outline>
+</glyph>

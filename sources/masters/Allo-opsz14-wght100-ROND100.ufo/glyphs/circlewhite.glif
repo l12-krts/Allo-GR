@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circlewhite" format="2">
+  <advance width="1837"/>
+  <outline>
+    <contour>
+      <point x="1364.0" y="-99.0"/>
+      <point x="1716.0" y="257.0"/>
+      <point x="1716.0" y="697.0" type="curve"/>
+      <point x="1716.0" y="1137.0"/>
+      <point x="1364.0" y="1492.0"/>
+      <point x="929.0" y="1492.0" type="curve"/>
+      <point x="494.0" y="1492.0"/>
+      <point x="142.0" y="1137.0"/>
+      <point x="142.0" y="697.0" type="curve"/>
+      <point x="142.0" y="257.0"/>
+      <point x="494.0" y="-99.0"/>
+      <point x="929.0" y="-99.0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="520.0" y="-53.0"/>
+      <point x="188.0" y="282.0"/>
+      <point x="188.0" y="697.0" type="curve"/>
+      <point x="188.0" y="1111.0"/>
+      <point x="520.0" y="1446.0"/>
+      <point x="929.0" y="1446.0" type="curve"/>
+      <point x="1339.0" y="1446.0"/>
+      <point x="1670.0" y="1111.0"/>
+      <point x="1670.0" y="697.0" type="curve"/>
+      <point x="1670.0" y="282.0"/>
+      <point x="1339.0" y="-53.0"/>
+      <point x="929.0" y="-53.0" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

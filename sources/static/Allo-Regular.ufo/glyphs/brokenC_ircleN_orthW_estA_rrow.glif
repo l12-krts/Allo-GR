@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brokenCircleNorthWestArrow" format="2">
+  <advance width="1714"/>
+  <unicode hex="238B"/>
+  <outline>
+    <contour>
+      <point x="256.2076328502469" y="703.6696460254725" type="line" smooth="yes"/>
+      <point x="208.940713708023" y="700.232051906038"/>
+      <point x="191.74999988884213" y="681.8354198500315"/>
+      <point x="199.56984238065345" y="635.0932679747619" type="curve" smooth="yes"/>
+      <point x="253.63910655455607" y="311.9008557941916"/>
+      <point x="537.6859931850279" y="72.48732568955126"/>
+      <point x="872.0" y="80.0" type="curve" smooth="yes"/>
+      <point x="1228.0" y="88.0"/>
+      <point x="1514.0" y="375.0"/>
+      <point x="1522.0" y="730.0" type="curve" smooth="yes"/>
+      <point x="1529.5126743104488" y="1064.3140068149721"/>
+      <point x="1290.0991442058084" y="1348.360893445444"/>
+      <point x="966.9067320252382" y="1402.4301576193463" type="curve" smooth="yes"/>
+      <point x="920.1645801499686" y="1410.250000111158"/>
+      <point x="901.767948093962" y="1393.059286291977"/>
+      <point x="898.3303539745275" y="1345.792367149753" type="curve" smooth="yes"/>
+      <point x="895.687664210572" y="1309.455382895366" type="line" smooth="yes"/>
+      <point x="892.2083551686223" y="1261.6148835685578"/>
+      <point x="907.975141618265" y="1245.7997558103982"/>
+      <point x="954.9975475409998" y="1236.3280976406118" type="curve" smooth="yes"/>
+      <point x="1189.8819765386072" y="1189.01565206889"/>
+      <point x="1361.5106010921124" y="979.2217485990067"/>
+      <point x="1356.0" y="734.0" type="curve" smooth="yes"/>
+      <point x="1350.0" y="467.0"/>
+      <point x="1135.0" y="252.0"/>
+      <point x="868.0" y="246.0" type="curve" smooth="yes"/>
+      <point x="622.7782514009932" y="240.48939890788748"/>
+      <point x="412.98434793110994" y="412.11802346139274"/>
+      <point x="365.6719023593881" y="647.0024524590001" type="curve" smooth="yes"/>
+      <point x="356.20024418960173" y="694.0248583817348"/>
+      <point x="340.38511643144216" y="709.7916448313777"/>
+      <point x="292.544617104634" y="706.312335789428" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="268.0" y="1000.525" type="line" smooth="yes"/>
+      <point x="268.0" y="952.8616179667123"/>
+      <point x="284.8616179667123" y="936.0"/>
+      <point x="332.525" y="936.0" type="curve" smooth="yes"/>
+      <point x="369.475" y="936.0" type="line" smooth="yes"/>
+      <point x="417.1383820332877" y="936.0"/>
+      <point x="434.0" y="952.8616179667123"/>
+      <point x="434.0" y="1000.525" type="curve" smooth="yes"/>
+      <point x="434.0" y="1051.0" type="line"/>
+      <point x="752.1793683849986" y="732.8206316150014" type="line" smooth="yes"/>
+      <point x="785.9839246187347" y="699.0160753812653"/>
+      <point x="809.9648348180253" y="699.0670983634785"/>
+      <point x="843.6252371207539" y="733.0151964123843" type="curve" smooth="yes"/>
+      <point x="869.6991443760861" y="759.3119575758817" type="line" smooth="yes"/>
+      <point x="903.1902067661919" y="793.0892683624842"/>
+      <point x="903.1233272928356" y="816.8440444854415"/>
+      <point x="869.4426032744142" y="850.4322390422737" type="curve" smooth="yes"/>
+      <point x="551.0" y="1168.0" type="line"/>
+      <point x="601.475" y="1168.0" type="line" smooth="yes"/>
+      <point x="649.1383820332878" y="1168.0"/>
+      <point x="666.0" y="1184.8616179667124"/>
+      <point x="666.0" y="1232.525" type="curve" smooth="yes"/>
+      <point x="666.0" y="1269.475" type="line" smooth="yes"/>
+      <point x="666.0" y="1317.1383820332876"/>
+      <point x="649.1383820332878" y="1334.0"/>
+      <point x="601.475" y="1334.0" type="curve" smooth="yes"/>
+      <point x="332.525" y="1334.0" type="line" smooth="yes"/>
+      <point x="284.86161796671223" y="1334.0"/>
+      <point x="268.0" y="1317.1383820332876"/>
+      <point x="268.0" y="1269.475" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>
