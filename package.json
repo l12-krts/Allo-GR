@@ -14,7 +14,7 @@
     "tailwind"
   ],
   "license": "OFL-1.1",
-  "author": "Josh Puckett (https://joshpuckett.me); Greek: L12-MC",
+  "author": "Josh Puckett (https://joshpuckett.me); Greek: l12-krts",
   "type": "module",
   "files": [
     "allo.css",
@@ -60,5 +60,10 @@
   },
   "sideEffects": [
     "*.css"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/l12-krts/Allo-GR.git"
+  },
+  "homepage": "https://github.com/l12-krts/Allo-GR"
 }

@@ -12,7 +12,7 @@ drop-in replacement.
 ## React
 
 ```sh
-npm install github:L12-MC/Allo-GR
+npm install github:l12-krts/Allo-GR
 ```
 
 Load the font once, at your app's root (`main.jsx`, `app/layout.tsx`, `_app.tsx`):
